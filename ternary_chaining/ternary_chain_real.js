@@ -22,3 +22,19 @@ const withTernary = ({
 
   console.log(withTernary({conditionA:10, conditionB:20}));
 
+  // taxi@taxi-HP-ProBook-4540s:~/others_12_12_19/arefinNodejs programs/ternary_chaining$ node ternary_chain_real.js
+  // conditionA:  10
+  // conditionB:  20
+  // 1
+
+
+  // lengthCategories >3?Dimensions.get('window').width/3:
+  // lengthCategories===2?Dimensions.get('window').width/2:
+  //     Dimensions.get('window').width;
+
+  // arefintest@gmail.com pw: 1234512345
+
+
+  // arefintest2@gmail.com pw: 1234512345
+
+  
